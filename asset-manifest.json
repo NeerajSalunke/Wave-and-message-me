@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wave-and-message-me/static/css/main.6cbf97cf.css",
+    "main.js": "/Wave-and-message-me/static/js/main.d801340d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Wave-and-message-me/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Wave-and-message-me/index.html",
+    "main.6cbf97cf.css.map": "/Wave-and-message-me/static/css/main.6cbf97cf.css.map",
+    "main.d801340d.js.map": "/Wave-and-message-me/static/js/main.d801340d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Wave-and-message-me/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbf97cf.css",
+    "static/js/main.d801340d.js"
+  ]
+}
